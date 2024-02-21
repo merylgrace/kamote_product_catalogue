@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Sweet Potato Pie",
+        "price": 450,
+        "description": "You can’t beat the classics. The deep-dish pie has comforting flavors of pecan and pumpkin pie spice.",
+        "date added": "2024-02-14",
+        "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Classic-Sweet-Potato-Pie_EXPS_FT23_25953_JR_1114_7.jpg?fit=335,335"
+    },
+    {
+        "id": 2,
+        "name": "Sweet Potato Cream Cheese Bars",
+        "price": 550,
+        "description": "These sweet potato bars are a fun alternative to pumpkin bars. To save some time, you can microwave the sweet potatoes for 8-10 minutes..",
+        "date added": "2024-02-14",
+        "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Sweet-Potato-Cream-Cheese-Bars_EXPS_THSO17_202421_D04_14_3b-1.jpg?fit=335,335"
+    },
+    {
+        "id": 3,
+        "name": "Sweet Potato Pound Cake",
+        "price": 1000,
+        "description": "An orange glaze adorns this sweet potato pound cake, but you can really make it your own by trying out different toppings. A brown butter frosting or vanilla glaze would give the cake a whole different flavor.",
+        "date added": "2024-02-14",
+        "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Sweet-Potato-Pound-Cake_EXPS_FBMZ22_27695-_P2_MD_04_22_1b.jpg?fit=335,335"
+    },
+    {
+        "id": 4,
+        "name": "Sweet Potato Waffles",
+        "price": 50,
+        "description": " Cardamom and pecans really make the flavor of these sweet potato waffles stand out. The overall taste is a bit earthy.",
+        "date added": "2024-02-14",
+        "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps41689_TH1443682D29CWEB-4.jpg?fit=335,335"
+    },
+    
+    {
+        "id": 5,
+        "name": "Roasted Potatoes with Garlic Butter",
+        "price": 75,
+        "description": "Overlapping orange sweet potatoes and Yukon gold potatoes look like medallions. The pretty side dish is topped with garlic butter and cheese..",
+        "date added": "2024-02-14",
+        "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps153661_TH2379807D_10_22_6b_C_RMS-2.jpg?fit=335,335"
+    },
+    {
+        "id": 6,
+        "name": "Roasted Sweet Potato & Chickpea Pitas",
+        "price": 700,
+        "description": "These Mediterranean stuffed pitas make for a quick 30 minute lunch. If you don’t like using the microwave, you can quickly sauté your garlic to make the creamy yogurt sauce.",
+        "date added": "2024-02-14",
+        "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Roasted-Sweet-Potato-Chickpea-Pitas_EXPS_HCK17_195089_08B_12_2b-2.jpg?fit=335,335"
+    }
+  ]
+  
